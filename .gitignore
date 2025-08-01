@@ -1,0 +1,22 @@
+# macOS junk
+.DS_Store
+
+# REAPER cache/temp
+*.RPP-bak
+*.reapeaks
+*.undo
+*.tmp
+
+# Audio output
+/output/renders/*
+/output/stems/*
+
+# System-specific or IDE files
+*.swp
+*.swo
+*.bak
+Thumbs.db
+
+# audio files
+*.wav
+*.mp3
